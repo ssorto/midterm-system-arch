@@ -55,8 +55,8 @@ How Information Moves Through the System
 ## Pseudocode Reference
 Diagram has high-level pseudocode, for a more detailed breakdown refer to the pseudocode file (pseudocode.md), which includes:
 
-* Context for sto
-* Survey design logic
+* Context for game inspiration.
+* Survey design logic.
 
 ===
 
