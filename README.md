@@ -3,11 +3,9 @@
 This assignment explores an AI-driven, Lotería-inspired survey system designed to enhance user engagement in qualitative surveys. Unlike static survey designs, this system allows participants to select emotion-based tiles, triggering AI-generated follow-up questions tailored to their responses.
 
 What is Lotería?
-Lotería is a traditional Mexican game similar to Bingo, where players match illustrated cards with symbolic meanings to a board. Each card represents a unique concept, emotion, or figure from everyday life and folklore. This survey experience draws inspiration from Lotería by allowing users to select 'tiles' representing emotions to guide their reflection journey.
+Lotería is a traditional Mexican game similar to Bingo, where players match illustrated cards with symbolic meanings to a board. Each card represents a unique concept, emotion, or figure from everyday life and folklore. This survey experience draws inspiration from Lotería by allowing users to select keys representing emotions to guide their reflection journey.
 
 The goal is to create an interactive and adaptable feedback mechanism that encourages deeper reflections and higher-quality responses from users.
-
-===
 
 ## How the System Works
 The system is structured in five main layers, each playing a role in facilitating the survey experience:
@@ -58,7 +56,6 @@ Diagram has high-level pseudocode, for a more detailed breakdown refer to the ps
 * Context for game inspiration.
 * Survey design logic.
 
-===
 
 ## Next Steps for Future Development
 Refine AI prompting for optimal user engagement using UXR and survey design best practices.
