@@ -16,7 +16,7 @@ The system is structured in five main layers, each playing a role in facilitatin
 Users are introduced to the process and guided on how to select a tile.
 User Interaction Layer (Tile Selection)
 
-2. Users select a tile (mapped to emotions like Excitement, Uncertainty, Frustration).
+2. Users select a key (mapped to emotions like Excitement, Uncertainty, Frustration).
 This selection triggers an event that is sent to the AI processing system.
 Communication Layer (MQTT)
 
@@ -43,7 +43,7 @@ The diagram illustrates the movement of data through the system:
 
 How Information Moves Through the System
 
-* User selects a tile → The selection is captured in the User Interaction Layer.
+* User selects a key → The selection is captured in the User Interaction Layer.
 * MQTT sends data → The tile selection is formatted into JSON and sent to the AI Processing Layer.
 * AI generates a follow-up question → Based on the emotion associated with the tile.
 * The generated question is displayed → Along with helper text to guide the user’s response.
